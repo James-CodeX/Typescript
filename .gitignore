@@ -3,8 +3,7 @@ dist/
 build/
 coverage/
 *.log
-.env
-.env.*
 .DS_Store
 Thumbs.db
 *.tsbuildinfo
+config.bat
